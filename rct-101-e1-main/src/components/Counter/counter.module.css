@@ -1,0 +1,11 @@
+.counter {
+  /* TODO */
+  border: 1px solid red;
+  width: fit-content;
+}
+
+button{
+  border: none ;
+  background-color: blueviolet;
+  border-radius: 4px;
+}
